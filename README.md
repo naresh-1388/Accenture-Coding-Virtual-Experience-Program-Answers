@@ -2,9 +2,6 @@
 
 This repository consists of Accenture Coding Virtual Experience Program Answers.
 
-
-Link to youtube video : https://youtu.be/rY6--2-k_wA
-
 **Why join this Virtual Experience ?**
 
 
